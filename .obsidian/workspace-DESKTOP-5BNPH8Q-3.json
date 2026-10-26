@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "2fcdcb477c2dad2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "388fb0d6887fd9a7",
+        "type": "tabs",
+        "dimension": 51.282051282051285,
+        "children": [
+          {
+            "id": "a721eccbdedf7773",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "561c1815e3a5828b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09_ressources_externes/google doc/03 - PRINCIPES BPP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - PRINCIPES BPP"
+            }
+          },
+          {
+            "id": "cbc6ffb8f4ce6302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_mapping_ideas/principe BPP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "principe BPP"
+            },
+            "group": "bcdab30278e632cb"
+          }
+        ]
+      },
+      {
+        "id": "426541281eb8c80e",
+        "type": "tabs",
+        "dimension": 48.717948717948715,
+        "children": [
+          {
+            "id": "c083f7f6930523a5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03_mapping_ideas/principe BPP.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0335000853974752,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de principe BPP"
+            },
+            "group": "bcdab30278e632cb"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1762806d1d9fd84",
+    "type": "split",
+    "children": [
+      {
+        "id": "209997ff318f5985",
+        "type": "tabs",
+        "dimension": 65.18518518518519,
+        "children": [
+          {
+            "id": "d47ce8e6f9c87c35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "7cd357cc442d17ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "d28270142a15c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc7a8cfbf3ec4d1b",
+        "type": "tabs",
+        "dimension": 34.81481481481482,
+        "children": [
+          {
+            "id": "464d5d0bcb61b4db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "2c5b1725c82a8458",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e33299b9d8eff5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accad3a88bcd678b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "4c551d802450ff3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "c19abaeb5a9a8cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "5195d5fae5244224",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "2f3b60e9d00c2037",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a721eccbdedf7773",
+  "lastOpenFiles": [
+    "Sans titre.canvas",
+    "Excalidraw/Drawing 2026-10-17 10.05.20.excalidraw.md",
+    "03_mapping_ideas/LN T5 - L'argument de l'acceptabilité.md",
+    "03_mapping_ideas/LN T4 - Où s'arrête la critique.md",
+    "03_mapping_ideas/LN T3 - Chaîne des effets pervers.md",
+    "03_mapping_ideas/LN T2 - Désaccord de cadre.md",
+    "03_mapping_ideas/LN T1 - Production du savoir.md",
+    "00_notes_papers/NSTC_2024.md",
+    "03_mapping_ideas/BPP T6 - Le décideur comme objet.md",
+    "03_mapping_ideas/BPP T5 - Comportement ou structure.md",
+    "03_mapping_ideas/BPP T4 - Qui décide du bon comportement.md",
+    "03_mapping_ideas/BPP T3 - L'I-frame se reproduit à la mise en œuvre.md",
+    "03_mapping_ideas/BPP T2 - Expansion par redéfinition.md",
+    "03_mapping_ideas/BPP T1 - Le petit est institutionnel.md",
+    "00_notes_papers/Dujin_Maresca_2012.md",
+    "00_notes_papers/Howlett_Rawat_2019.md",
+    "00_notes_papers/Fabbri_2018.md",
+    "00_notes_papers/sedsoi6R8",
+    "00_notes_papers/Whitehead_2011.md",
+    "00_notes_papers/sedzNrBHW",
+    "00_notes_papers/Sanders_2018.md",
+    "09_ressources_externes/google doc/03 - PRINCIPES BPP.md",
+    "00_notes_papers/sedpUgxqt",
+    "01_papers/Dujin_2011_changer_les_comportements.pdf",
+    "01_papers/C295.pdf.crdownload",
+    "01_papers/fabbri_2018_a_constitution_for_behavioral_policy.pdf",
+    "01_papers/s12232-018-0296-9.pdf.crdownload",
+    "01_papers/Sanders_2018_behavioural-science-and-policy-where-are-we-now-and-where-are-we-going.pdf",
+    "01_papers/behavioural-science-and-policy-where-are-we-now-and-where-are-we-going.pdf.crdownload",
+    "01_papers/Howlett-Rawat_2019_BehaviouralClimatePolicy_ORE.pdf",
+    "00_notes_papers/Anderson-Carpenter_2023.md",
+    "00_notes_papers/EU_Policy_Lab_2025.md",
+    "03_mapping_ideas/principe BPP.md",
+    "00_notes_papers/ESCAP_2021.md",
+    "00_notes_papers/Dewies_2023.md",
+    "00_notes_papers/Mozafar_2023.md",
+    "09_ressources_externes/google doc/media/image1.png",
+    "09_ressources_externes/google doc/media/image2.png",
+    "04_images/don't like what this graph shows.png"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00_notes_papers  ",
+      "color": {
+        "a": 1,
+        "rgb": 15773101
+      }
+    },
+    {
+      "query": "path:06_auteurs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6479954
+      }
+    },
+    {
+      "query": "path:02_concepts&models  ",
+      "color": {
+        "a": 1,
+        "rgb": 16590374
+      }
+    },
+    {
+      "query": "path:03_mapping_ideas  ",
+      "color": {
+        "a": 1,
+        "rgb": 16647686
+      }
+    },
+    {
+      "query": "path:\"Special_test_discord\"",
+      "color": {
+        "a": 1,
+        "rgb": 3190918
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.61747404844291,
+  "lineSizeMultiplier": 1.80397923875433,
+  "collapse-forces": false,
+  "centerStrength": 0.226892933480148,
+  "repelStrength": 5.28402098581514,
+  "linkStrength": 0.674479166666667,
+  "linkDistance": 69,
+  "scale": 0.7716825610799568,
+  "close": true
+}

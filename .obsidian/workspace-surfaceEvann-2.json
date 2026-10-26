@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "2fcdcb477c2dad2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "388fb0d6887fd9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379b1173b3dc45df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-06 11.23.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-06 11.23.53.excalidraw"
+            }
+          },
+          {
+            "id": "9e62d4e34796a4e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_papers/Bamberg&Moser_2007_meta-analysis_determinants_PEB.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Bamberg&Moser_2007_meta-analysis_determinants_PEB"
+            }
+          },
+          {
+            "id": "a2207271dd538d18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-17 10.05.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-17 10.05.20.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1762806d1d9fd84",
+    "type": "split",
+    "children": [
+      {
+        "id": "209997ff318f5985",
+        "type": "tabs",
+        "dimension": 65.18518518518519,
+        "children": [
+          {
+            "id": "d47ce8e6f9c87c35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "7cd357cc442d17ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "d28270142a15c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc7a8cfbf3ec4d1b",
+        "type": "tabs",
+        "dimension": 34.81481481481482,
+        "children": [
+          {
+            "id": "464d5d0bcb61b4db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "2c5b1725c82a8458",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e33299b9d8eff5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accad3a88bcd678b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "4c551d802450ff3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "c19abaeb5a9a8cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "5195d5fae5244224",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "2f3b60e9d00c2037",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a2207271dd538d18",
+  "lastOpenFiles": [
+    "01_papers/Bamberg&Moser_2007_meta-analysis_determinants_PEB.pdf",
+    "Excalidraw/Drawing 2026-10-17 10.05.20.excalidraw.md",
+    "01_papers/HandbookofEnvironmentalPsychology.pdf",
+    "01_papers/L'empathie est politique_ Comment les normes sociales -- Samah Karaki -- 2024 -- JC Lattès -- isbn13 9782709672511 -- 017c27f15339a6a26b6425c8031e3501 -- Anna’s Archive.epub",
+    "01_papers/Osman Nudge Concept Effectiveness 2017 Accepted.docx",
+    "01_papers/ajzen_1991.pdf",
+    "Excalidraw/Drawing 2026-10-06 11.23.53.excalidraw.md",
+    "10_meta/TODO.md",
+    "Excalidraw/Drawing 2026-10-06 11.30.10.excalidraw.md",
+    "base.base",
+    "Excalidraw",
+    "09_ressources_externes/google doc/Google doc links.md",
+    "03_mapping_ideas/Beyond nudge T2 - Personnes interprètes.md",
+    "00_notes_papers/Krijnen_2017.md",
+    "03_mapping_ideas/Beyond nudge T5 - Évidence et évaluation.md",
+    "03_mapping_ideas/Beyond nudge T3 - Concevoir autrement.md",
+    "03_mapping_ideas/Beyond nudge T1 - Unité d'intervention.md",
+    "03_mapping_ideas/sedKMcrqG",
+    "03_mapping_ideas/sedvKe3hD",
+    "00_notes_papers/sedN98KFx",
+    "03_mapping_ideas/sedxhsTfg",
+    "00_notes_papers/Nguyen-Trung_2024.md",
+    "03_mapping_ideas/Beyond nudge T4 - Co-production et gouvernance.md",
+    "00_notes_papers/Bujold_2025.md",
+    "00_notes_papers/Smaldino_2025.md",
+    "00_notes_papers/Hodson_2024.md",
+    "09_ressources_externes/google doc/02 - BEYOND NUDGES.md",
+    "00_notes_papers/Nielsen_Cash_Daalhuizen_2024.md",
+    "00_notes_papers/Fine_2012.md",
+    "00_notes_papers/Schmidt_2024.md",
+    "00_notes_papers/Mukhtarov_2022.md",
+    "00_notes_papers/Polman_2025.md",
+    "06_auteurs/Banerjee_Sanchayan.md",
+    "00_notes_papers/Banerjee_2025.md",
+    "00_notes_papers/Chater&Loewenstein_2026_Its_on_you.md",
+    "00_notes_papers/Biely_2022.md",
+    "09_ressources_externes/google doc/media/image1.png",
+    "09_ressources_externes/google doc/media/image2.png",
+    "04_images/don't like what this graph shows.png"
+  ]
+}
