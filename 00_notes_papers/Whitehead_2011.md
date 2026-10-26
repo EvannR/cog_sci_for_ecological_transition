@@ -84,5 +84,3 @@ Critique géographique et éthique des politiques de « Behaviour Change » au R
 > « We assert that in this formative period of Behaviour Change policy in the UK, the state is at best a dilettante; wielding a largely unfounded belief in the predictability concerning the nature of human decision-making. »
 
 # Context
-
-Article de géographie humaine (Aberystwyth University), numéro spécial d'*Environment and Planning A* sur la décision. Premier texte d'un programme de recherche des trois auteurs (financé par l'ESRC) sur la « psychological governance » au Royaume-Uni, qui a donné *Changing Behaviours: On the Rise of the Psychological State* (2013).

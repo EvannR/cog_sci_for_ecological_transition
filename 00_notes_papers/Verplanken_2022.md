@@ -57,6 +57,3 @@ Revue narrative de la psychologie sociale et de la santé.
 > « Such habit discontinuities may put deliberative strategies in the driving seat and provide prospects for more effective interventions. »
 
 # Context
-
-> [!NOTE] Rappel (Règle 4, Instructions.md)
-> Faire la recherche de contexte (Semantic Scholar / Google Scholar).

@@ -19,7 +19,7 @@ added: 2026-07-12
 
 # Abstract
 
-Revue de littérature (52 articles) comparant trois concepts utilisés de façon inconsistante dans la littérature pour expliquer comment les gains environnementaux d'une intervention peuvent être annulés par des mécanismes comportementaux : le rebond comportemental, le spillover négatif, et le crowding-out. 79 mécanismes sont extraits (29/30/20 respectivement), donnant 17 explications comportementales distinctes (licence morale, crowding motivationnel, diffusion de responsabilité, etc.), comparés sur un plan structurel (intrants, extrants, caractéristiques globales) et contextuel (type d'intervention, effet direct/indirect, domaine). Conclusion principale : les trois concepts ne sont pas synonymes mais s'articulent en séquence => le crowding-out peut mener à du spillover négatif, qui peut à son tour être vu comme un type de rebond comportemental.
+Revue de littérature (52 articles) qui compare trois concepts utilisés de façon inconsistante dans la littérature pour expliquer comment les gains environnementaux d'une intervention peuvent être annulés par des mécanismes comportementaux : le rebond comportemental, le spillover négatif, et le crowding-out. 79 mécanismes sont extraits (29/30/20 respectivement), donnant 17 explications comportementales distinctes (licence morale, crowding motivationnel, diffusion de responsabilité, etc.), comparés sur un plan structurel (intrants, extrants, caractéristiques globales) et contextuel (type d'intervention, effet direct/indirect, domaine). Conclusion principale : les trois concepts ne sont pas synonymes mais s'articulent en séquence => le crowding-out peut mener à du spillover négatif, qui peut à son tour être vu comme un type de rebond comportemental.
 
 # Key claims / thesis
 
