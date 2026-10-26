@@ -5,7 +5,7 @@ year: 2024
 journal: "Journal of Engineering Design, 35(5), 504-542 (revue systématique)"
 doi: 10.1080/09544828.2024.2322897
 pdf: "[[Nielsen_Cash_Daalhuizen_2024_potential_of_Behavioral_design.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/4FFU4G7Y
 tags:
   - LDD
   - behavioral-science

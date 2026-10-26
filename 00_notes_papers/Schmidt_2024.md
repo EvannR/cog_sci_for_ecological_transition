@@ -5,7 +5,7 @@ year: 2024
 journal: "Behavioural Public Policy, 8(2), 212-237 (première publication en ligne en 2021 ; article conceptuel)"
 doi: 10.1017/bpp.2021.16
 pdf: "[[Schmidt_Ruth_Stenger_2024_behavioral_brittleness.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/H6RS4QN7
 tags:
   - LDD
   - systemic-critique

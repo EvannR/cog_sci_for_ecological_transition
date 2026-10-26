@@ -5,7 +5,7 @@ year: 2025
 journal: OECD Public Governance Policy Papers
 doi: 10.1787/162c5a27-en
 pdf: "[[OCDE_mind_shift&Green_Lift_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/9XH446SY
 tags:
   - LDD
   - nudge

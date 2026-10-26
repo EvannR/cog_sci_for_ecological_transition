@@ -5,7 +5,7 @@ year: 2013
 journal: "American Journal of Public Health, 103(8), 1367-1375"
 doi: 10.2105/AJPH.2013.301301
 pdf: "[[Kippax_2013.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/IYD7CLGB
 tags:
   - LDD
   - agency

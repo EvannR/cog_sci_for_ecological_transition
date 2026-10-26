@@ -5,7 +5,7 @@ year: 2015
 journal: "Health Psychology Review, 9(3), 323-344"
 doi: 10.1080/17437199.2014.941722
 pdf: "[[Davis_2015.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/Y7ZHHER5
 tags:
   - LDD
   - behavioral-theory

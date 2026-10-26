@@ -5,7 +5,7 @@ year: 2023
 journal: "Nature Climate Change, 13(9), 919-926"
 doi: 10.1038/s41558-023-01753-x
 pdf: "[[Bower_2023_sustainable_livehood_and_planned_relocation.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/G29ICTB8
 tags:
   - LDD
   - climate

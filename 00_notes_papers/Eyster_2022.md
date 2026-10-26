@@ -5,7 +5,7 @@ year: 2022
 journal: "Annual Review of Environment and Resources, 47, 725-751"
 doi: 10.1146/annurev-environ-020422-125351
 pdf: "[[Eyster_2022_why_do_people_do_what_they_do.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/A569PXHS
 tags:
   - LDD
   - behavioral-theory

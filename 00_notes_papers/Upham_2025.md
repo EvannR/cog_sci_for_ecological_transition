@@ -5,7 +5,7 @@ year: 2025
 journal: "Journal of Cleaner Production, 511, 145674"
 doi: 10.1016/j.jclepro.2025.145674
 pdf: "[[Upham_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/EEPJFZN2
 tags:
   - LDD
   - behavioral-science

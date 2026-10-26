@@ -5,7 +5,7 @@ year: 2018
 journal: "Behavioural Public Policy, 2(2), 144-167"
 doi: 10.1017/bpp.2018.17
 pdf: "[[Sanders_2018_behavioural-science-and-policy-where-are-we-now-and-where-are-we-going.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/UG7KFZUK
 tags:
   - LDD
   - BPP

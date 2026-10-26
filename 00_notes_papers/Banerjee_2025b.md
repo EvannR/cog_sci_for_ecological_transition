@@ -5,7 +5,7 @@ year: 2025
 journal: "Behavioural Public Policy, 9(4), 780-802"
 doi: 10.1017/bpp.2023.15
 pdf: "[[Banerjee_2025_behavioural_public_policies_for_the_social_brain.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/MGY9MH4C
 tags:
   - LDD
   - beyond-nudge

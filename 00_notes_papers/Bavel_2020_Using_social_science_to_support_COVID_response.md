@@ -5,7 +5,7 @@ year: 2020
 journal: Nature Human Behaviour
 doi: 10.1038/s41562-020-0884-z
 pdf: "[[Bavel_2020_Using_social_science_to_support_COVID_response.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/H6ULWI82
 tags:
   - behavioral-science
   - public-policy

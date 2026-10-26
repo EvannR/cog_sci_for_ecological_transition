@@ -5,7 +5,7 @@ year: 2022
 journal: "Histories, 2(3), 197-206"
 doi: 10.3390/histories2030016
 pdf: "[[Fontaine_2022_history_of_recent_social_science.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/UPJTH7JR
 tags:
   - LDD
   - history-of-science

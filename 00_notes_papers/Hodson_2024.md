@@ -5,7 +5,7 @@ year: 2024
 journal: "Current Opinion in Psychology, 62, 101973 (en ligne déc. 2024 ; numéro thématique Nudges, 2025), revue"
 doi: 10.1016/j.copsyc.2024.101973
 pdf: "[[Hodson_kirilov_Vlaev_2024_MINDSPACE_adhesio_framework.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/PIG5V7HH
 tags:
   - LDD
   - beyond-nudge

@@ -5,7 +5,7 @@ year: 2024
 journal: "European Journal of Personality, 38(3), 544-568"
 doi: 10.1177/08902070231190219
 pdf: "[[Buhler_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/C2ZWVIKY
 tags:
   - LDD
   - systematic-review

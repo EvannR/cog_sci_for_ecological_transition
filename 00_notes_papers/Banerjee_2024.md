@@ -5,7 +5,7 @@ year: 2024
 journal: Behavioural Public Policy, 8, 789-806
 doi: 10.1017/bpp.2024.6
 pdf: "[[Banerjee_2024.pdf]]"
-zotero:
+zotero: zotero://select/library/items/VZKIM4BC
 tags:
   - LDD
   - behavioral-science

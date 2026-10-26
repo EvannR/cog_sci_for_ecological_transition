@@ -5,7 +5,7 @@ year: 2025
 journal: "Publications Office of the European Union, Luxembourg (JRC138028, EUR 40088)"
 doi: 10.2760/7367599
 pdf: "[[EU-policy-lab_2025_UNLOCKING THE FULL POTENTIALOF BEHAVIOURAL INSIGHTS FOR POLICY.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/YFN6BF59
 tags:
   - LDD
   - BPP

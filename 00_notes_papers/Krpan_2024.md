@@ -5,7 +5,7 @@ year: 2024
 journal: "Behavioural Public Policy, 10, 455-480 (publié en ligne en 2024)"
 doi: 10.1017/bpp.2024.30
 pdf: "[[Krpan_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/AKPRUV52
 tags:
   - LDD
   - behavioral-theory

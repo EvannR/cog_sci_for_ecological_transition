@@ -5,7 +5,7 @@ year: 2018
 journal: "Behavioural Public Policy, 2(2), 183-189"
 doi: 10.1017/bpp.2018.19
 pdf: "[[Delanay_2018_behavioural-insights-team-ethical-professional-and-historical-considerations.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/E7N4HM5Y
 tags:
   - LDD
   - BPP

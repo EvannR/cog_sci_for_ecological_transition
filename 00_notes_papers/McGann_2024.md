@@ -5,7 +5,7 @@ year: 2024
 journal: "Philosophical Transactions of the Royal Society B, 379, 20230288"
 doi: 10.1098/rstb.2023.0288
 pdf: "[[McGann_2024_Reorienting_psychological_science.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/3ZVLL3DH
 tags:
   - LDD
   - behavioral-theory

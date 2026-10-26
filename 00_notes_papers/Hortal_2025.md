@@ -5,7 +5,7 @@ year: 2025
 journal: Behavioural Public Policy, 1–17
 doi: 10.1017/bpp.2025.10027
 pdf: "[[Hortal_2025.pdf]]"
-zotero:
+zotero: zotero://select/library/items/22G6XI8S
 tags:
   - LDD
   - behavioral-science

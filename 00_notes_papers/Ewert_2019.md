@@ -5,7 +5,7 @@ year: 2019
 journal: Public Policy and Administration
 doi: 10.1177/0952076719889090
 pdf: "[[Ewert_2019.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/8XE959UQ
 tags:
   - LDD
   - nudge

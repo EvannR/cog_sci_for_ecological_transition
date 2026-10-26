@@ -5,7 +5,7 @@ year: 2025
 journal: Journal of Cleaner Production, 535, 146973
 doi: 10.1016/j.jclepro.2025.146973
 pdf: "[[Van-der-Loo_2025.pdf]]"
-zotero:
+zotero: zotero://select/library/items/VYZHGUPC
 tags:
   - LDD
   - behavioral-science

@@ -5,7 +5,7 @@ year: 2025
 journal: "Psychonomic Bulletin & Review, 32, 1131-1141 (article théorique/de revue)"
 doi: 10.3758/s13423-024-02613-1
 pdf: "[[Szollosi_Wang-Ly_2025_Nudges for people who think.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/KLNEGLPC
 tags:
   - LDD
   - beyond-nudge

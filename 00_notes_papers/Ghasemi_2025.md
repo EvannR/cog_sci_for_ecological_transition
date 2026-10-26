@@ -5,7 +5,7 @@ year: 2025
 journal: "Behavioural Public Policy, 1-18"
 doi: 10.1017/bpp.2025.10021
 pdf: "[[Ghasemi_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/QRALU8HL
 tags:
   - LDD
   - hard-vs-soft-policy

@@ -5,7 +5,7 @@ year: 2023
 journal: "Transforming Government: People, Process and Policy, 17(4), 603-631"
 doi: 10.1108/TG-12-2022-0168
 pdf: "[[Mozafa_2023_review_of_BPP.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/YRM92EDR
 tags:
   - LDD
   - BPP

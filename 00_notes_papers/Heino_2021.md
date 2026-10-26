@@ -5,7 +5,7 @@ year: 2021
 journal: "Behavioral Sciences, 11(5), 77"
 doi: 10.3390/bs11050077
 pdf: "[[Heino_2021.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/5IP5XRZG
 tags:
   - LDD
   - systems-thinking

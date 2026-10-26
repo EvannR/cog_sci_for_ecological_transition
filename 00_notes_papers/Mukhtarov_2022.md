@@ -5,7 +5,7 @@ year: 2022
 journal: "Journal of Environmental Planning and Management, 67(4), 714-741 (en ligne nov. 2022 ; scoping review)"
 doi: 10.1080/09640568.2022.2132475
 pdf: "[[Mukhtarov_2022_behavioural_public_policy_literature.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/LRESZ5WU
 tags:
   - LDD
   - nudge-plus

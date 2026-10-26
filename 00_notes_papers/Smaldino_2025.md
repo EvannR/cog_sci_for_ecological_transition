@@ -5,7 +5,7 @@ year: 2025
 journal: "npj Complexity, 2, 13 (Comment)"
 doi: 10.1038/s44260-025-00037-z
 pdf: "[[Smaldino_Russel_2025_Information_architectures_for _understanding_socio-technical_systems.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/A8F76HCN
 tags:
   - LDD
   - beyond-nudge

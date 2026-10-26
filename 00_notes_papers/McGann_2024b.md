@@ -5,7 +5,7 @@ year: 2024
 journal: "Philosophical Transactions of the Royal Society B, 379, 20230282"
 doi: 10.1098/rstb.2023.0282
 pdf: "[[McGann_2024b_People-places_things_communities.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/AV7A9TTQ
 tags:
   - LDD
   - behavioral-theory

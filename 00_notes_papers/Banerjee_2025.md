@@ -5,7 +5,7 @@ year: 2025
 journal: Policy and Society, 00(00), 1-16
 doi: 10.1093/polsoc/puaf012
 pdf: "[[Banerjee_2025.pdf]]"
-zotero:
+zotero: zotero://select/library/items/2Y7IN5Q7
 tags:
   - LDD
   - behavioral-science

@@ -5,7 +5,7 @@ year: 2023
 journal: "Behavioural Public Policy, 9 (2025), 652-682 (en ligne 2023)"
 doi: 10.1017/bpp.2022.40
 pdf: "[[schimmelpfennig_2025_cultural-evolutionary-behavioural-science-in-public-policy.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/78YCCJGJ
 tags:
   - LDD
   - BPP

@@ -5,7 +5,7 @@ year: 2025
 journal: "Nature Reviews Psychology"
 doi: 10.1038/s44159-024-00398-7
 pdf: "[[Oktar_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/MSB63HJF
 tags:
   - LDD
   - social-norms

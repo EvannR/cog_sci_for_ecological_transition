@@ -5,7 +5,7 @@ year: 2009
 journal: Science AAAS
 doi: 10.1126/science.1172133
 pdf: "[[Ostrom_2009_general_SES_framework.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/XJIMRVVD
 tags:
   - 
 status: to-read

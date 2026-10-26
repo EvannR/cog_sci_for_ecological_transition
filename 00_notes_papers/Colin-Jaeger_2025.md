@@ -5,7 +5,7 @@ year: 2025
 journal: "Humanities and Social Sciences Communications, 12, 430"
 doi: 10.1057/s41599-025-04708-z
 pdf: "[[Colin-Jaeger_2025_individual_autonomy.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/BIF3GBTY
 tags:
   - LDD
   - agency

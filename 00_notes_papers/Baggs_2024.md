@@ -5,7 +5,7 @@ year: 2024
 journal: "Philosophical Transactions of the Royal Society B, 379, 20230287"
 doi: 10.1098/rstb.2023.0287
 pdf: "[[Baggs_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/BN3US7CH
 tags:
   - LDD
   - behavioral-theory

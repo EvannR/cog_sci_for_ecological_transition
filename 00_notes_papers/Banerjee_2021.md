@@ -5,7 +5,7 @@ year: 2021
 journal: Journal of Behavioral Public Administration, 4(2), 1-24
 doi: 10.30636/jbpa.42.220
 pdf: "[[Banerjee_2021.pdf]]"
-zotero:
+zotero: zotero://select/library/items/EAIRR2YD
 tags:
   - LDD
   - behavioral-science

@@ -5,7 +5,7 @@ year: 2025
 journal: "Policy Studies (review article, en ligne 10 nov. 2025)"
 doi: 10.1080/01442872.2025.2584195
 pdf: "[[Polman_candel_Greene_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/67Q55363
 tags:
   - LDD
   - systemic-critique

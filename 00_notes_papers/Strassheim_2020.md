@@ -5,7 +5,7 @@ year: 2020
 journal: "International Review of Public Policy, 2(1), 115-128"
 doi: 10.4000/irpp.897
 pdf: "[[Strassheim_2020_rise_of_BPP_critical_research.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/PXZ4ZS52
 tags:
   - LDD
   - BPP

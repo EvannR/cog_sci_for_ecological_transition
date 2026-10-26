@@ -5,7 +5,7 @@ year: 2025
 journal: "Behavioural Public Policy, 9, 874-885 (Perspective)"
 doi: 10.1017/bpp.2025.9
 pdf: "[[Hertwig_2025_Moving_from_nudging_to_boosting.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/4RQP98V5
 tags:
   - LDD
   - beyond-nudge

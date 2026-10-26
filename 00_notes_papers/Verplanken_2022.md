@@ -5,7 +5,7 @@ year: 2022
 journal: "Annual Review of Psychology, 73, 327-352"
 doi: 10.1146/annurev-psych-020821-011744
 pdf: "[[Verplanken_2022.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/VDITKELH
 tags:
   - LDD
   - behavioral-theory

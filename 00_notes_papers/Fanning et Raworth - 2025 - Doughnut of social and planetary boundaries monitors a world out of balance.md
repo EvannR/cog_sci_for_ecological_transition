@@ -5,7 +5,7 @@ year: 2025
 journal: Nature
 doi: 10.1038/s41586-025-09385-1
 pdf: "[[Fanning&Raworth_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/EKY5MQNC
 tags:
   - doughnut
   - planetary-boundaries

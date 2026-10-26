@@ -5,7 +5,7 @@ year: 2022
 journal: Urban, Planning and Transport Research, 10(1), 2145350
 doi: 10.1080/21650020.2022.2145350
 pdf: "[[Biely_2022.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/9TQLQFB7
 tags:
   - LDD
   - behavioral-science

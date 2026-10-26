@@ -5,7 +5,7 @@ year: 2024
 journal: The Behavioral Economics Guide 2024, pp. 109-118 (Behavioral Science Solutions Ltd.)
 doi:
 pdf: "[[Banerjee_2024b.pdf]]"
-zotero:
+zotero: zotero://select/library/items/Z3NQIXQZ
 tags:
   - LDD
   - behavioral-science

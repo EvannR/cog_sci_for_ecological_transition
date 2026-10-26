@@ -5,7 +5,7 @@ year: 1983
 journal: "The Hastings Center Report, 13(1), 3-8 (Special Supplement: Ethics and Social Inquiry)"
 doi: 10.2307/3561557
 pdf: "[[Jennings&Callahan_1983_social_science_and_policy_making_process.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/B7JFAQ9C
 tags:
   - LDD
   - history-of-science

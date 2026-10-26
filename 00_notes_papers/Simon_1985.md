@@ -5,7 +5,7 @@ year: 1985
 journal: "The American Political Science Review, 79(2), 293-304"
 doi: 10.2307/1956650
 pdf: "[[Simon_1985_dialogue_psychology_with_political_science.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/7YRXBRQL
 tags:
   - LDD
   - history-of-science

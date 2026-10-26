@@ -5,7 +5,7 @@ year: 2019
 journal: Direction interministérielle de la transformation publique (DITP)
 doi: 
 pdf: "[[Gressinger_2019_apport_des_sciences_comportementales.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/VJWKAH7H
 tags:
   - LDD
   - nudge

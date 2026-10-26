@@ -5,7 +5,7 @@ year: 2025
 journal: "Socio-Ecological Practice Research, 7(3), 367-386"
 doi: 10.1007/s42532-025-00227-y
 pdf: "[[Nguyen-Trung_2025_SeCOM-B.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/EQ7GVVP7
 tags:
   - LDD
   - beyond-nudge

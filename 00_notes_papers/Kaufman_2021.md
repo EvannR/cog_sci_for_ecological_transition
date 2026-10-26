@@ -5,7 +5,7 @@ year: 2021
 journal: "Environmental Innovation and Societal Transitions, 40, 586-608"
 doi: 10.1016/j.eist.2021.10.010
 pdf: "[[Kaufman_2022_behavior_in_sustainability_science.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/3KSF3PLQ
 tags:
   - LDD
   - behavioral-science

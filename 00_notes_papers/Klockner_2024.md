@@ -5,7 +5,7 @@ year: 2024
 journal: "PLOS Climate, 3(11), e0000424"
 doi: 10.1371/journal.pclm.0000424
 pdf: "[[Klockner_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/AKY9ZFLF
 tags:
   - LDD
   - climate

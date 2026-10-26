@@ -5,7 +5,7 @@ year: 2023
 journal: "Perspectives on Behavior Science, 46, 1-4"
 doi: 
 pdf: "[[Anderson‑Carpenter_2023_behavioral_science_contributions_to_public_policy.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/MMLKSIIT
 tags:
   - LDD
   - BPP

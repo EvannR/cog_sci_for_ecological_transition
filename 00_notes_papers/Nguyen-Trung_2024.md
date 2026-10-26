@@ -5,7 +5,7 @@ year: 2024
 journal: "Qualitative Research Journal (Emerald), étude de cas, volume et pages non indiqués dans l'épreuve"
 doi: 10.1108/QRJ-11-2023-0168
 pdf: "[[Nguyen-Trung_2024_pragmatism_in_behaviour_change-led_climate_adaptation_project.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/SLZNJYU8
 tags:
   - LDD
   - beyond-nudge

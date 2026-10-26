@@ -5,7 +5,7 @@ year: 2023
 journal: "Chapitre in Research Handbook on Nudges and Society (C.R. Sunstein & L.A. Reisch, eds.), Edward Elgar Publishing, pp. 227-241"
 doi: 10.4337/9781035303038.00023
 pdf: "[[Banerjee_2023.pdf]]"
-zotero:
+zotero: zotero://select/library/items/TKXTAQ9H
 tags:
   - LDD
   - behavioral-science

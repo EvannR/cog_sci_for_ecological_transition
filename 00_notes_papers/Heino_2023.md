@@ -5,7 +5,7 @@ year: 2023
 journal: "Health Psychology Review, 17(4), 655-672"
 doi: 10.1080/17437199.2022.2146598
 pdf: "[[Heino_2022_Attractor landscapes  a unifying conceptual model for understanding behaviour change across scales of observation.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/LIBL5DAL
 tags:
   - LDD
   - behavioral-theory

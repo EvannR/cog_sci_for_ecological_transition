@@ -5,7 +5,7 @@ year: 2024
 journal: "Trends in Cognitive Sciences, 28(7), 583-585"
 doi: 10.1016/j.tics.2024.04.010
 pdf: "[[Madsen_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/WQB22483
 tags:
   - LDD
   - nudge-critique

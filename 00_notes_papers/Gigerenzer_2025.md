@@ -5,7 +5,7 @@ year: 2025
 journal: Behavioural Public Policy, 9, 495-515
 doi: 10.1017/bpp.2024.51
 pdf: "[[Gigerenzer_2025.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/RX37DZ3R
 tags:
   - LDD
   - behavioral-science

@@ -5,7 +5,7 @@ year: 2024
 journal: "Sustainability Science, 19(3), 687-700"
 doi: 10.1007/s11625-024-01493-7
 pdf: "[[Biely_2024_embeddesness_of_individual.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/WVP75BEG
 tags:
   - LDD
   - ecological-transition

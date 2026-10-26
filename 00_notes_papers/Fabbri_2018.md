@@ -5,7 +5,7 @@ year: 2018
 journal: "International Review of Economics, 65(3), 241-270"
 doi: 10.1007/s12232-018-0296-9
 pdf: "[[fabbri_2018_a_constitution_for_behavioral_policy.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/NK8H84GL
 tags:
   - LDD
   - BPP

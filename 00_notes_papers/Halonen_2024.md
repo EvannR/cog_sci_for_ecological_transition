@@ -5,7 +5,7 @@ year: 2024
 journal: "In Rescaling Sustainability Transitions (pp. 1-13), Springer Nature"
 doi: 10.1007/978-3-031-69918-4_1
 pdf: "[[Halonen_2024_Rescaling_sustainability_transitions.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/4LM2B62V
 tags:
   - LDD
   - ecological-transition

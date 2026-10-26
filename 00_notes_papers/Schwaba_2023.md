@@ -5,7 +5,7 @@ year: 2023
 journal: "Journal of Personality and Social Psychology, 125(5), 1136-1156"
 doi: 10.1037/pspp0000483
 pdf: "[[Schwaba_2023.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/JWK4LES4
 tags:
   - LDD
 status: read

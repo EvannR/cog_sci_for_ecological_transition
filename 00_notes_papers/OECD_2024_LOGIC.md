@@ -5,7 +5,7 @@ year: 2024
 journal: OECD Publishing, Paris
 doi: 10.1787/6cb52de2-en
 pdf: "[[OCDE_2024_LOGIC.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/RKILWC9P
 tags:
   - LDD
   - BPP

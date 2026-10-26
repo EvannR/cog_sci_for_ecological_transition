@@ -5,7 +5,7 @@ year: 2024
 journal: "BMC Public Health, 24, 2099"
 doi: 10.1186/s12889-024-19600-9
 pdf: "[[El Kirat_2024_interventions_theories.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/EDPNN4S7
 tags:
   - LDD
   - behavioral-theory

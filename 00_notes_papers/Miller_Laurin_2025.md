@@ -6,7 +6,7 @@ journal: "In D. T. Gilbert, S. T. Fiske, E. J. Finkel & W. B. Mendes (Eds.), The
 doi: 10.70400/DCSX1997
 pdf: 
 url: https://openpublishing.princeton.edu/read/history-of-social-psychology-four-enduring-tensions/section/1fccf2d6-d9f5-4b26-869a-cb82988a3333
-zotero: 
+zotero: zotero://select/library/items/UG5QM4S8
 tags:
   - LDD
   - history-of-science

@@ -5,7 +5,7 @@ year: 2025
 journal: "Current Opinion in Behavioral Sciences, 63, 101503"
 doi: 10.1016/j.cobeha.2025.101503
 pdf: "[[Ardoin_2025_collective_action.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/A6MZHA9Z
 tags:
   - LDD
   - climate

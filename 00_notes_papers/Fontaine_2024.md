@@ -5,7 +5,7 @@ year: 2024
 journal: BMC Public Health, 24, 784
 doi: 10.1186/s12889-024-18270-x
 pdf: "[[Fontaine_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/2XF4A393
 tags:
   - LDD
   - beyond-nudge

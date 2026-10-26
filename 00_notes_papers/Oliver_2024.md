@@ -5,7 +5,7 @@ year: 2024
 journal: "Behavioural Public Policy, 9, 647-651 (en ligne déc. 2024, numéro 2025)"
 doi: 10.1017/bpp.2024.64
 pdf: "[[Oliver_2024_history_of_BPP.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/URJPUMIS
 tags:
   - LDD
   - BPP

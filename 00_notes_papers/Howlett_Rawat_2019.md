@@ -5,7 +5,7 @@ year: 2019
 journal: "Oxford Research Encyclopedia of Climate Science (en ligne juillet 2019)"
 doi: 10.1093/acrefore/9780190228620.013.624
 pdf: "[[Howlett-Rawat_2019_BehaviouralClimatePolicy_ORE.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/GWFV26QN
 tags:
   - LDD
   - BPP

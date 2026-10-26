@@ -5,7 +5,7 @@ year: 2019
 journal: "Annual Review of Sociology, 45, 1-26"
 doi: 10.1146/annurev-soc-073117-041052
 pdf: "[[Burawoy_2010_crisis_of_neoliberal_sociology.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/K9T6JUM8
 tags:
   - LDD
   - history-of-science

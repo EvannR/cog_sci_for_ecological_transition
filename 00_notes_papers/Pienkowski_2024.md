@@ -5,7 +5,7 @@ year: 2024
 journal: "Nature Ecology & Evolution, 8(10), 1804-1814"
 doi: 10.1038/s41559-024-02507-4
 pdf: "[[Pienkowski_2024.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/S8CUCHSA
 tags:
   - LDD
   - biodiversity

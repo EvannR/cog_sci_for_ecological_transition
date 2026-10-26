@@ -5,7 +5,7 @@ year: 2017
 journal: "Adult Education Quarterly, 67(1), 48-64"
 doi: 10.1177/0741713616674076
 pdf: "[[Hoggan_2017_perspective_transformation.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/86XKZ5RK
 tags:
   - LDD
   - agency

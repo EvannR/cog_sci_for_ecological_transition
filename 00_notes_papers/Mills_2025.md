@@ -5,7 +5,7 @@ year: 2025
 journal: "Cambridge Journal of Economics, 49(1), 1-18 (en ligne oct. 2024)"
 doi: 10.1093/cje/beae038
 pdf: "[[Mills_2025_how_nudges_happened.pdf]]"
-zotero: 
+zotero: zotero://select/library/items/BSIGMALV
 tags:
   - LDD
   - BPP
