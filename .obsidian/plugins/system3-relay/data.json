@@ -1,0 +1,791 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "00_notes_papers",
+      "guid": "d763462d-1912-4680-b088-0430fc4f4f55",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "b747595f-3b2d-4039-8996-94df5f6afce9",
+          "timestamp": 1793003093111
+        },
+        {
+          "guid": "f9949f75-49a6-48a3-a2a9-4a37d072726e",
+          "timestamp": 1793003093106
+        },
+        {
+          "guid": "0416170b-4d5c-4118-9cea-239fbf67c218",
+          "timestamp": 1793003092700
+        },
+        {
+          "guid": "bafa00b6-9305-45ba-81b1-de4c8c86bb3c",
+          "timestamp": 1793003092367
+        },
+        {
+          "guid": "13f1fbfe-037b-442d-8f3b-5f7cfd535394",
+          "timestamp": 1793003091990
+        },
+        {
+          "guid": "a7555255-792c-4f90-9511-f1e22012a190",
+          "timestamp": 1793003091665
+        },
+        {
+          "guid": "918efd9f-2187-4b95-b5a5-5547536dabf9",
+          "timestamp": 1793003091643
+        },
+        {
+          "guid": "1dc61ead-c9e0-42d0-a26f-4c9c1c8d0983",
+          "timestamp": 1793003091275
+        },
+        {
+          "guid": "3840dcb8-c800-4b2f-aec1-7602f521e583",
+          "timestamp": 1793003090930
+        },
+        {
+          "guid": "2f474e59-aaff-4d3d-9c60-047a9d4c2408",
+          "timestamp": 1793003090580
+        },
+        {
+          "guid": "5832c4b1-6368-4657-8769-658ce0b05bab",
+          "timestamp": 1793003090264
+        },
+        {
+          "guid": "816538db-9d85-49d1-bd93-4e69f8035f2c",
+          "timestamp": 1793003090224
+        },
+        {
+          "guid": "d9c3d67d-e70c-49e5-a0d9-8a97dcbfd8bb",
+          "timestamp": 1793003089753
+        },
+        {
+          "guid": "6ceb07e6-bbab-47b4-9e78-b3b616560cc8",
+          "timestamp": 1793003089426
+        },
+        {
+          "guid": "318623fb-9383-4540-bb79-ef25cfa6db29",
+          "timestamp": 1793003088947
+        },
+        {
+          "guid": "165b57d7-6359-4bd4-b81f-6ea0e447a196",
+          "timestamp": 1793003088834
+        },
+        {
+          "guid": "3631c9bc-bfb6-4307-8f6d-9f4ea721ed40",
+          "timestamp": 1793003088334
+        },
+        {
+          "guid": "aa7fa4ae-bdc6-41ad-af81-35b0f62b72e1",
+          "timestamp": 1793003087988
+        },
+        {
+          "guid": "eebf6bad-ce6c-46f5-9987-696a64ab52ed",
+          "timestamp": 1793003087631
+        },
+        {
+          "guid": "4de4d8a6-5e3f-45ba-a5b4-a4ae864324b4",
+          "timestamp": 1793003087546
+        },
+        {
+          "guid": "8bbf9d81-31e2-4c5a-a7ff-ce0712867c0a",
+          "timestamp": 1793003087158
+        },
+        {
+          "guid": "fec031c3-e7fe-4113-9161-a03009f6f462",
+          "timestamp": 1793003086846
+        },
+        {
+          "guid": "7e5ae507-aaa5-4fa1-9240-f4b8f3120b2e",
+          "timestamp": 1793003086378
+        },
+        {
+          "guid": "41d602f2-480d-47b1-a94a-6b98e7299861",
+          "timestamp": 1793003086260
+        },
+        {
+          "guid": "c47bb40c-5915-4e2d-a131-80e39347ed2b",
+          "timestamp": 1793003085839
+        },
+        {
+          "guid": "6aa819e3-e69e-406d-8fc2-99fb59882189",
+          "timestamp": 1793003085495
+        },
+        {
+          "guid": "b5d6831a-0721-4750-81f5-5422f0ddbfad",
+          "timestamp": 1793003085142
+        },
+        {
+          "guid": "afd2c146-7a80-4d00-8ae7-4f7c0485179e",
+          "timestamp": 1793003085015
+        },
+        {
+          "guid": "8f855d2b-8988-4e9b-a9b1-d221798be086",
+          "timestamp": 1793003084754
+        },
+        {
+          "guid": "743e9bea-2ba8-4747-a130-48df895ae521",
+          "timestamp": 1793003084251
+        },
+        {
+          "guid": "61b7153a-96da-4923-96f3-931c8e3e24ee",
+          "timestamp": 1793003083912
+        },
+        {
+          "guid": "a13735d7-25cf-4f16-934e-a0173c224ee9",
+          "timestamp": 1793003083497
+        },
+        {
+          "guid": "48f156a0-f11f-4aa5-b93c-9de673519ed1",
+          "timestamp": 1793003083441
+        },
+        {
+          "guid": "741983f5-a5ad-41a2-8fc8-4fc5d0fa1b6f",
+          "timestamp": 1793003082998
+        },
+        {
+          "guid": "cf89778c-06ae-4452-ad46-c4f15a3898f4",
+          "timestamp": 1793003082586
+        },
+        {
+          "guid": "3fcb6bc7-029d-463e-9296-c5f886c16dbf",
+          "timestamp": 1793003082232
+        },
+        {
+          "guid": "58b59cd5-64c2-4e3a-bfea-a8c958c622c6",
+          "timestamp": 1793003081888
+        },
+        {
+          "guid": "4241c0c7-6884-410a-b0bc-3f2ecd29fa0d",
+          "timestamp": 1793003081852
+        },
+        {
+          "guid": "935877c0-c98e-42d2-86ec-7204f5bb31a0",
+          "timestamp": 1793003081490
+        },
+        {
+          "guid": "adea7c30-3eae-446c-9f28-149b83a4d8b8",
+          "timestamp": 1793003081127
+        },
+        {
+          "guid": "c27a9d78-b589-4210-9f38-f0f7c147884c",
+          "timestamp": 1793003080764
+        },
+        {
+          "guid": "d39090a3-1ecc-439c-b549-0f3423e39e26",
+          "timestamp": 1793003080423
+        },
+        {
+          "guid": "610f231a-12b2-463a-b4e5-3718b59d85f8",
+          "timestamp": 1793003080078
+        },
+        {
+          "guid": "922a69e0-370c-457a-8248-025bfd80da23",
+          "timestamp": 1793003079742
+        },
+        {
+          "guid": "438be971-9789-4a7e-9fbd-61d513758fc4",
+          "timestamp": 1793003079387
+        },
+        {
+          "guid": "41ec473b-ec6d-49e6-81de-f3d32fedfc49",
+          "timestamp": 1793003079355
+        },
+        {
+          "guid": "c8f75620-ddbb-40b0-92e6-36fbcc689239",
+          "timestamp": 1793003078981
+        },
+        {
+          "guid": "9ca58301-6bd7-4eff-a0c1-55c62184d073",
+          "timestamp": 1793003078653
+        },
+        {
+          "guid": "2767d5aa-b1e1-40d8-84e5-f35db83a9359",
+          "timestamp": 1793003078190
+        },
+        {
+          "guid": "1854c59a-cad7-4e32-ad86-8b5d199651ce",
+          "timestamp": 1793003078175
+        },
+        {
+          "guid": "4e1dbcbb-d7d1-4469-ac54-98a408072808",
+          "timestamp": 1793003077807
+        },
+        {
+          "guid": "78034eb0-b2ba-4fad-8137-4124a4952174",
+          "timestamp": 1793003077454
+        },
+        {
+          "guid": "043ff98c-2cce-43c3-be54-aeee37500f1f",
+          "timestamp": 1793003076982
+        },
+        {
+          "guid": "56686b5c-a4fa-4f08-a40a-865e106e6b3b",
+          "timestamp": 1793003076963
+        },
+        {
+          "guid": "57419219-33d1-4d82-9f3d-774c148c05db",
+          "timestamp": 1793003076667
+        },
+        {
+          "guid": "06a20543-9486-4039-ae6f-7fb445ee1ab7",
+          "timestamp": 1793003076162
+        },
+        {
+          "guid": "771de7b9-27ca-4387-944b-4f0a77279d5f",
+          "timestamp": 1793003075744
+        },
+        {
+          "guid": "5643cdba-0070-40ac-b791-f3a607a8233f",
+          "timestamp": 1793003075734
+        },
+        {
+          "guid": "c52c420b-5267-4b4c-a9a2-936f9cabe490",
+          "timestamp": 1793003072073
+        },
+        {
+          "guid": "9236922d-fa72-4440-993d-1665564ede68",
+          "timestamp": 1793003071614
+        },
+        {
+          "guid": "d34ead0e-c049-4f9d-8147-5bf3d7a74c5c",
+          "timestamp": 1793003071236
+        },
+        {
+          "guid": "4ba0e70f-de93-4dcb-a0b8-67fa0536c32d",
+          "timestamp": 1793003070835
+        },
+        {
+          "guid": "bc707961-012a-4618-86d7-19274910068e",
+          "timestamp": 1793003070489
+        },
+        {
+          "guid": "9d4750b8-bacc-4639-9383-2f2013f2eef3",
+          "timestamp": 1793003070113
+        },
+        {
+          "guid": "8096e0ea-e26d-4640-a868-f5d016fcbe44",
+          "timestamp": 1793003069739
+        },
+        {
+          "guid": "65812756-898a-4cc8-b931-ed1032487e99",
+          "timestamp": 1793003069496
+        },
+        {
+          "guid": "4b29db79-02fc-4619-8ca1-2e68c8c6d9d0",
+          "timestamp": 1793003069385
+        },
+        {
+          "guid": "ef356cc6-ed0c-486a-a95c-2abac016beba",
+          "timestamp": 1793003068666
+        },
+        {
+          "guid": "6d1f745e-6150-4b68-85b8-475f79d30cec",
+          "timestamp": 1793003068435
+        },
+        {
+          "guid": "deef5811-646b-4f28-a9f4-266315316e21",
+          "timestamp": 1793003068230
+        },
+        {
+          "guid": "65d6dd45-ec82-4292-88ca-e64e94ea369c",
+          "timestamp": 1793003067920
+        },
+        {
+          "guid": "274e46dc-aef6-4568-89ed-efe5f5f5720a",
+          "timestamp": 1793003067375
+        },
+        {
+          "guid": "b7b34d42-df78-4c5e-819f-6177b4bd5a60",
+          "timestamp": 1793003067030
+        },
+        {
+          "guid": "c6228dd1-2aae-40ec-bf28-2c8b08262906",
+          "timestamp": 1793003066753
+        },
+        {
+          "guid": "e96159e5-5c79-4980-b322-8b1aaadc3ce0",
+          "timestamp": 1793003066574
+        },
+        {
+          "guid": "7948dd10-b5d4-49ab-b41c-c2e51bec5558",
+          "timestamp": 1793003066171
+        },
+        {
+          "guid": "d875ef1b-0ad7-4c08-a456-691b1a938a21",
+          "timestamp": 1793003065818
+        },
+        {
+          "guid": "620f334c-3ad7-45b6-8331-9c62be6a5497",
+          "timestamp": 1793003065471
+        },
+        {
+          "guid": "26009b31-3889-414b-bb0a-612d9fb29267",
+          "timestamp": 1793003065120
+        },
+        {
+          "guid": "b31d4ddd-0c3d-4ecd-af57-db48cf41f95a",
+          "timestamp": 1793003064573
+        },
+        {
+          "guid": "dc2f89a7-5150-400d-9b8d-bc7db022a2d5",
+          "timestamp": 1793003064456
+        },
+        {
+          "guid": "126323a2-efb0-4b38-811b-158604f6b4a8",
+          "timestamp": 1793003064145
+        },
+        {
+          "guid": "5ec79f67-2de6-4e14-8f8f-b0363ac608ed",
+          "timestamp": 1793003063564
+        },
+        {
+          "guid": "c670c11d-0535-47fe-9ac9-9b96788f601a",
+          "timestamp": 1793003063349
+        },
+        {
+          "guid": "b9dd07f3-1343-4a77-b4b4-8d9ad2eb11e7",
+          "timestamp": 1793003063214
+        },
+        {
+          "guid": "d773b986-96b8-48d3-b47c-f1ca966a4378",
+          "timestamp": 1793003062501
+        },
+        {
+          "guid": "a1d5f447-8840-4576-97fb-63a99a6efbeb",
+          "timestamp": 1793003062149
+        },
+        {
+          "guid": "a6896ee0-65ed-4687-a89e-053914e91814",
+          "timestamp": 1793003061800
+        },
+        {
+          "guid": "8b93974e-ae62-4f12-b350-24a53c393f5b",
+          "timestamp": 1793003061726
+        },
+        {
+          "guid": "3f084543-3132-4cb9-9d4e-3f98910975a2",
+          "timestamp": 1793003061333
+        },
+        {
+          "guid": "6fd3d432-42b7-41da-a04f-8d974c6c8bba",
+          "timestamp": 1793003060960
+        },
+        {
+          "guid": "2fca9745-b0a6-417d-8944-56d9add28802",
+          "timestamp": 1793003060267
+        },
+        {
+          "guid": "3b7b81ca-7190-4116-a5ff-46180d789a95",
+          "timestamp": 1793003059925
+        },
+        {
+          "guid": "366aedc3-3f21-4bb9-9721-600d4d6a4de1",
+          "timestamp": 1793003059574
+        },
+        {
+          "guid": "7a2c4d00-16dc-4216-8edb-8dcb2dfc8083",
+          "timestamp": 1793003059224
+        },
+        {
+          "guid": "8e143b2f-2f31-4fbd-aabb-53c308f5f5d7",
+          "timestamp": 1793003058838
+        },
+        {
+          "guid": "b654dd31-0aa8-4b7f-8b05-2b983b31cc46",
+          "timestamp": 1793003058487
+        }
+      ]
+    },
+    {
+      "path": "01_papers",
+      "guid": "dbbc9b0b-1b86-427b-a0ef-0851d0b65298",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "02_concepts&models",
+      "guid": "9d087018-3463-41a4-ae47-6deacc0f8194",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "bd50192b-1b7f-4e87-be44-53a2418d795c",
+          "timestamp": 1793003093588
+        }
+      ]
+    },
+    {
+      "path": "03_mapping_ideas",
+      "guid": "8d374a11-aa56-4b66-9b6e-9db4676d529a",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "f08a54ef-b9fa-45e8-aac4-6e8b603373a8",
+          "timestamp": 1793003102621
+        },
+        {
+          "guid": "41bb4a29-b7f2-4c99-b1f1-a9ddec8bf955",
+          "timestamp": 1793003102290
+        },
+        {
+          "guid": "bf532ce4-a646-4c17-8321-d545a0fb026a",
+          "timestamp": 1793003101902
+        },
+        {
+          "guid": "61a6f9be-4d49-48e0-b802-dcb065568489",
+          "timestamp": 1793003101562
+        },
+        {
+          "guid": "97771ae3-a1d0-4710-937c-b6f3f4e396b1",
+          "timestamp": 1793003101053
+        },
+        {
+          "guid": "bbd07bdf-a6be-4330-aac3-b7a51605302f",
+          "timestamp": 1793003100706
+        },
+        {
+          "guid": "48f9432a-f25b-4191-a696-e21c09ae3200",
+          "timestamp": 1793003100404
+        },
+        {
+          "guid": "972e9b92-e027-4975-8652-f01b1a02176a",
+          "timestamp": 1793003100210
+        },
+        {
+          "guid": "1d7b4c05-1c99-4e84-a1ef-a24c036a3563",
+          "timestamp": 1793003099816
+        },
+        {
+          "guid": "e3a43d88-969f-41b8-9b8d-2cbaeef1c430",
+          "timestamp": 1793003099456
+        },
+        {
+          "guid": "42c45d4d-99cf-4ace-bb7b-bf709c8324a7",
+          "timestamp": 1793003099115
+        },
+        {
+          "guid": "925df20a-1341-48d8-9b72-80a9ceda5050",
+          "timestamp": 1793003098781
+        },
+        {
+          "guid": "7509cf0b-4345-44d2-9e7f-3956fae8e764",
+          "timestamp": 1793003098441
+        },
+        {
+          "guid": "52e0a330-90a6-475e-aa11-f0f7be8ac67e",
+          "timestamp": 1793003098140
+        },
+        {
+          "guid": "63659d8e-2b0c-472b-af77-8271e15110f4",
+          "timestamp": 1793003098004
+        },
+        {
+          "guid": "2d8a55b2-6e9f-4960-bcdb-836d4cc2f7a3",
+          "timestamp": 1793003097588
+        },
+        {
+          "guid": "b93f7c05-24e3-4799-8f8b-e7688a42965a",
+          "timestamp": 1793003097259
+        },
+        {
+          "guid": "68f5b9d2-fea7-4d00-84c6-929c4d0a3877",
+          "timestamp": 1793003096936
+        },
+        {
+          "guid": "1643b584-184b-4a1a-9b21-85e774189ce6",
+          "timestamp": 1793003096820
+        },
+        {
+          "guid": "cbd9f3e0-04b8-40d9-a9e5-939447e4c93b",
+          "timestamp": 1793003096444
+        },
+        {
+          "guid": "08044cf7-dec3-418d-be9b-a7219e792e71",
+          "timestamp": 1793003096099
+        },
+        {
+          "guid": "9eb5f309-1a46-418b-9c8c-cccee6fe3df7",
+          "timestamp": 1793003095742
+        },
+        {
+          "guid": "e2d441f4-ad0f-4da3-9253-e097f54231ad",
+          "timestamp": 1793003095394
+        },
+        {
+          "guid": "e7423194-332e-45a1-9898-1ce4db12e5ed",
+          "timestamp": 1793003095394
+        },
+        {
+          "guid": "e993c4b2-7e4f-4f72-82d3-9d3d4cd98da8",
+          "timestamp": 1793003095016
+        },
+        {
+          "guid": "ee8a1f0d-7d89-4f05-9dc0-6e490bb869ec",
+          "timestamp": 1793003094670
+        },
+        {
+          "guid": "dd3218de-d478-4754-8bb6-4794ec382bdc",
+          "timestamp": 1793003094298
+        },
+        {
+          "guid": "3c1c4e8d-9b13-470e-9348-7678026c7384",
+          "timestamp": 1793003094281
+        },
+        {
+          "guid": "924c4c25-5178-460a-8ab1-89109e044969",
+          "timestamp": 1793003093929
+        }
+      ]
+    },
+    {
+      "path": "04_images",
+      "guid": "f2b4e4d7-8bed-48a8-ba59-198ba7ffedc0",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "05_work_applications",
+      "guid": "8102fd63-8504-4374-a271-e267107f5b56",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "15e73de5-f09f-4186-935b-1ffa1cd5f6b5",
+          "timestamp": 1793003103221
+        },
+        {
+          "guid": "50f145e9-2c77-44ba-b088-e7b9a8b67793",
+          "timestamp": 1793003102930
+        }
+      ]
+    },
+    {
+      "path": "06_auteurs",
+      "guid": "fe9e52fa-3634-430e-878e-3e5609b6da83",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "8f57b6ce-1bcf-4619-9b81-31da3c007564",
+          "timestamp": 1793003103927
+        },
+        {
+          "guid": "037f012a-2ccf-4654-9c01-d1e45491f7eb",
+          "timestamp": 1793003103568
+        }
+      ]
+    },
+    {
+      "path": "09_ressources_externes",
+      "guid": "78c6a772-07e4-4b8c-aec3-7687e1f83382",
+      "relay": "b8a9a7f5-a1c6-4229-bbaf-80322fe99c08",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "remoteActivity": [
+        {
+          "guid": "99e3f42e-f272-4f0e-97d5-75158c04b3a9",
+          "timestamp": 1793003109028
+        },
+        {
+          "guid": "65ebbc25-1333-4fc5-b011-927a28e8f199",
+          "timestamp": 1793003108992
+        },
+        {
+          "guid": "fe0e20d5-c9c7-4d63-a3a2-f6853d85af00",
+          "timestamp": 1793003108625
+        },
+        {
+          "guid": "5073b8d0-6b4b-4615-add0-f4adb037bccb",
+          "timestamp": 1793003108276
+        },
+        {
+          "guid": "39231bc8-3ec9-4650-a805-748ab3a97526",
+          "timestamp": 1793003107931
+        },
+        {
+          "guid": "d57b8402-6e10-42a0-afcc-02886925a3fb",
+          "timestamp": 1793003107561
+        },
+        {
+          "guid": "d208b899-b375-444f-95e4-1bf7b046f1ae",
+          "timestamp": 1793003107257
+        },
+        {
+          "guid": "9078742f-73d1-4593-8181-e2d06eafd1df",
+          "timestamp": 1793003107217
+        },
+        {
+          "guid": "83b16d3d-73ea-4402-9f31-e1ec9344481b",
+          "timestamp": 1793003106855
+        },
+        {
+          "guid": "dade3d1c-cb2f-463d-8351-9ba277035b32",
+          "timestamp": 1793003106486
+        },
+        {
+          "guid": "fcc70adb-865f-4b56-bbe5-5644caccb322",
+          "timestamp": 1793003106166
+        },
+        {
+          "guid": "eb60b79d-e403-4076-8652-92011317b00f",
+          "timestamp": 1793003106148
+        },
+        {
+          "guid": "e18f94cf-5ed9-4eaf-98f2-c7abb1e6a327",
+          "timestamp": 1793003105754
+        },
+        {
+          "guid": "72ef2d8c-cfa8-442b-868a-8ae99d512c2d",
+          "timestamp": 1793003105417
+        },
+        {
+          "guid": "53f0430b-0b21-4228-a8ea-664fbb68eb67",
+          "timestamp": 1793003105066
+        },
+        {
+          "guid": "d2c4d0e9-663f-445a-985f-45fb5c94c2b5",
+          "timestamp": 1793003104636
+        },
+        {
+          "guid": "1e79e11c-e40a-49f6-808c-e19fb2e2ab18",
+          "timestamp": 1793003104328
+        },
+        {
+          "guid": "b1cf195a-d5f7-44bf-a708-f0cd373eb8f4",
+          "timestamp": 1793003104306
+        },
+        {
+          "guid": "6be3e646-2ea4-4846-b5b4-ce0a196479c3",
+          "timestamp": 1793003075442
+        },
+        {
+          "guid": "dac35abf-0495-4e3a-bd65-13bc6737c899",
+          "timestamp": 1793003074931
+        },
+        {
+          "guid": "14141bd0-1cd7-4953-8163-3b7cb78eb8de",
+          "timestamp": 1793003074610
+        },
+        {
+          "guid": "70063acd-519b-4762-81a6-240d0a03e918",
+          "timestamp": 1793003074134
+        },
+        {
+          "guid": "cad6eb6a-ee93-458c-b68f-37adce85eda2",
+          "timestamp": 1793003074126
+        },
+        {
+          "guid": "89721341-bc3e-4ab3-9c92-d6294f2e3887",
+          "timestamp": 1793003073724
+        },
+        {
+          "guid": "db6a81c0-543a-442d-875c-65a48dcfd55b",
+          "timestamp": 1793003073412
+        },
+        {
+          "guid": "ba68d805-fdc3-4405-ad24-d992621e99d7",
+          "timestamp": 1793003072934
+        },
+        {
+          "guid": "b9068288-3cda-435c-bfe1-5d1acec09d73",
+          "timestamp": 1793003072806
+        },
+        {
+          "guid": "f466a116-8f01-4ead-a167-82ca9d34fb1d",
+          "timestamp": 1793003072422
+        }
+      ]
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDiffLinkStatus": false,
+  "enableDiscordLogin": false,
+  "enableDeviceManagement": true,
+  "enableResourceMeter": false,
+  "enableDeltaLogging": false,
+  "enableNetworkLogging": false,
+  "enableVerifyUploads": false,
+  "enableHSMRecording": false,
+  "enableHSMResourceContracts": false,
+  "enableDraftMode": false,
+  "enableFolderIdbMigration": false,
+  "enableMetadataHealthNotice": true,
+  "enableNoteStateInspector": false,
+  "enableSavingFlagPolyfill": true,
+  "enableFrontmatterDuplicateRecovery": false,
+  "enableSingleUserHistory": true,
+  "enableStreamerMode": false,
+  "debugging": false,
+  "login": {
+    "provider": "github"
+  }
+}
